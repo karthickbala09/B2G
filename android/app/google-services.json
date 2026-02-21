@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "178015449763",
+    "project_id": "firestore-karthic-example",
+    "storage_bucket": "firestore-karthic-example.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178015449763:android:93a735b89f7108cd890516",
+        "android_client_info": {
+          "package_name": "com.example.firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwC8ntsUD96MQQfoocuRU-Wq3Z2X8RPnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178015449763:android:812331e6d57f1753890516",
+        "android_client_info": {
+          "package_name": "com.example.hackthon_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwC8ntsUD96MQQfoocuRU-Wq3Z2X8RPnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
